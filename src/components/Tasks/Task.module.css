@@ -1,0 +1,16 @@
+.weird {
+    background-color: #07ba37;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.innerDivs {
+    display: flex;
+    justify-content: space-between;
+    gap: 10;
+}
+
+.space {
+    margin-left: 5px;
+}
